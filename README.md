@@ -22,3 +22,6 @@ Requirements:
 
 # To see project online click the link below:
 https://redhwanedehak.github.io/OpenClassroomsProject3/
+
+# To see and read project brief click the link below:
+OpenClassroomsProject3/P3_01_projectbrief.pdf
