@@ -24,4 +24,4 @@ Requirements:
 https://redhwanedehak.github.io/OpenClassroomsProject3/
 
 # To see and read project brief click the link below:
-OpenClassroomsProject3/P3_01_projectbrief.pdf
+https://github.com/RedhwaneDehak/OpenClassroomsProject3/blob/b51b92bc0ae8aaba40a53b8aad70e2958f0cb268/P3_01_projectbrief.pdf
